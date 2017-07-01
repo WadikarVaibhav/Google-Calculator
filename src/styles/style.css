@@ -1,0 +1,158 @@
+.buttonOperator {
+  width: 82px;
+  height: 40px;
+  font-size: 21px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  font-family:monospace;
+  background: #D3D3D3;
+  font-weight: lighter;
+  border: 1px solid #A9A9A9;
+}
+
+.degreeButtons {
+  width: 82px;
+  height: 40px;
+  font-size: 13px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  background: #D3D3D3;
+  border: none;
+  border: 1px solid #A9A9A9;
+}
+
+.deleteButton {
+  width: 82px;
+  height: 40px;
+  font-size: 15px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  background: #D3D3D3;
+  font-weight: lighter;
+  border: none;
+  border: 1px solid #A9A9A9;
+}
+
+.functionalButtons {
+  width: 82px;
+  height: 40px;
+  font-size: 15px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  background: #D3D3D3;
+  border: none;
+  border: 1px solid #A9A9A9;
+}
+
+.closedParenthesisStyle {
+  color: #D3D3D3;
+  font-size: 31px;
+  font-weight:400;
+}
+
+.clearParanthesisButton {
+  width: 82px;
+  height: 40px;
+  font-size: 16px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  background: #D3D3D3;
+  font-weight: lighter;
+  border: none;
+  border: 1px solid #A9A9A9;
+}
+
+.equalToButton {
+  width: 82px;
+  height: 40px;
+  font-size: 21px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  background: #4981CE;
+  color: #F2F2F2;
+  font-weight: lighter;
+  border: none;
+  border: 1px solid #4169E1;
+}
+
+.numericButton {
+  width: 82px;
+  height: 40px;
+  font-size: 16px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: 1px;
+  margin-bottom: 2px;
+  background: #F2F2F2;
+  border: none;
+  border: 1px solid #D3D3D3;
+}
+
+.buttonClassClearAndDelete {
+  width:113px;
+  height:45px;
+  font-size: 20px;
+  margin-left: 3px;
+  margin-top: 4px;
+  margin-bottom: 2px;
+  margin-right: 2px;
+}
+
+.textLabelForExpression {
+  border: 1px solid #D3D3D3;
+  display: table-cell;
+  width:523px;
+  height:50px;
+  font-size: 31px;
+  font-weight:400;
+  font-family: sans-serif;
+  text-align: right;
+  white-space:nowrap;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  padding-left: 8px;
+  padding-right: 8px;
+  float: right;
+  margin-bottom: 3px;
+  line-height: 48px;
+  margin-left: 6px;
+}
+
+.mainScreenDiv {
+  border:1px solid #D3D3D3;
+  margin: 40px;
+  margin-left: 20px;
+  padding: 15px;
+  padding-top: 22px;
+}
+
+.outerDiv {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -300px;
+}
+
+.expressionLabel {
+  width:547px;
+  height: auto;
+  font-size: 15px;
+  text-align: right;
+  margin-left: 3px;
+  word-wrap:break-word;
+}
