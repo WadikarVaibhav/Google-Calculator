@@ -92,7 +92,7 @@ class Calculator extends React.Component {
     var lastChar = Data.getLastCharInText(this.state.text);
     if(lastChar !== CalculatorConstants.DOT) {
       this.setState({
-        text: this.state.text + userInput + CalculatorConstants.OPEN_PARENTHESIS,
+        text: (!this.state.isNewCalculation) ? this.state.text + userInput + CalculatorConstants.OPEN_PARENTHESIS: userInput + CalculatorConstants.OPEN_PARENTHESIS,
         isNewCalculation: false
       })
     }
