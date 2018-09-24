@@ -1,5 +1,5 @@
 # Expression Evaluator - Calculator
-A webapp for parsing and evaluating integer arithmetic expressions. 
+A webapp for parsing and evaluating numeric arithmetic expressions. 
  
 # Technologies
 ReactJS
